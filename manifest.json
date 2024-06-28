@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.12280496.css",
+    "main.js": "/static/js/main.beef3ca5.js",
+    "static/media/MenuDragon.png": "/static/media/MenuDragon.608a70713e9c2ae420c5.png",
+    "static/media/Alphus.png": "/static/media/Alphus.9f5a603fcb25756b02a8.png",
+    "static/media/Morphis.png": "/static/media/Morphis.20abdea2eeeadc4cd3b3.png",
+    "index.html": "/index.html",
+    "static/media/menu.svg": "/static/media/menu.4fda1ddfc7f421bbb857.svg",
+    "main.12280496.css.map": "/static/css/main.12280496.css.map",
+    "main.beef3ca5.js.map": "/static/js/main.beef3ca5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12280496.css",
+    "static/js/main.beef3ca5.js"
+  ]
+}
